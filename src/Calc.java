@@ -11,6 +11,7 @@ public class Calc {
         System.out.println("Enter an integer b");
         int b= sc.nextInt();
         System.out.println("Choose an operation");
+        System.out.println("Really...");
 
     }
 }
