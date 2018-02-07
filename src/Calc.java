@@ -9,7 +9,7 @@ public class Calc {
         int a = sc.nextInt();
         System.out.println("Enter an integer b");
         int b= sc.nextInt();
-        
+        System.out.println("Choose an operation");
 
     }
 }
