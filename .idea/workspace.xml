@@ -22,12 +22,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Calc.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Calc.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Calc.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Operations.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Operations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <folding>
+                <element signature="e#69#70#0" expanded="true" />
+                <element signature="e#95#96#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,12 +67,13 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Calc.java" />
+        <option value="$PROJECT_DIR$/src/Operations.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1051" />
-    <option name="y" value="61" />
+    <option name="x" value="1132" />
+    <option name="y" value="74" />
     <option name="width" value="706" />
     <option name="height" value="885" />
   </component>
@@ -87,6 +101,11 @@
             <path>
               <item name="GitDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="GitDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,7 +224,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1051" y="61" width="706" height="885" extended-state="0" />
+    <frame x="1132" y="74" width="706" height="885" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -254,8 +273,19 @@
     <entry file="file://$PROJECT_DIR$/src/Calc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Operations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#95#96#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
